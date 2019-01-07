@@ -1,0 +1,19 @@
+{
+  "name": "pipe",
+  "version": "0.0.1",
+  "description": "jobsearch pipeline tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "sherbert",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
